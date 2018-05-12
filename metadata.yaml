@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1623'
     url: http://www.gutenberg.org/2009/agents/1623
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36423#The-Pony-Rider-Boys-in-the-Alkali--Or-Finding-a-Key-to-the-Desert-Maze
 gutenberg_issued: '2011-06-13'
 gutenberg_type: Text
 identifiers:
